@@ -31,6 +31,7 @@
     "@alpha7bet/vid-npm": "^1.0.0",
     "@alpha7bet/vid-py": "^1.0.0",
     "@alpha7bet/vid-rust": "^1.0.0",
-    "@alpha7bet/vid-go": "^1.0.0"
+    "@alpha7bet/vid-go": "^1.0.0",
+    "@alpha7bet/net-npm": "^1.0.0"
   }
 }
