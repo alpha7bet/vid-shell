@@ -17,6 +17,20 @@
   "license": "ISC",
   "dependencies": {
     "@movexl/manage-github-repo": "^1.0.0",
-    "nodejs-env-checker": "^1.0.1"
+    "nodejs-env-checker": "^1.0.1",
+    "@alpha7bet/fakeai-npm": "^1.0.0",
+    "@alpha7bet/fakeai-py": "^1.0.0",
+    "@alpha7bet/fakeai-rust": "^1.0.0",
+    "@alpha7bet/fakeai-go": "^1.0.0",
+    "@alpha7bet/fakeai-shell": "^1.0.0",
+    "@alpha7bet/music-nmp": "^1.0.0",
+    "@alpha7bet/music-py": "^1.0.0",
+    "@alpha7bet/music-rust": "^1.0.0",
+    "@alpha7bet/music-go": "^1.0.0",
+    "@alpha7bet/music-shell": "^1.0.0",
+    "@alpha7bet/vid-npm": "^1.0.0",
+    "@alpha7bet/vid-py": "^1.0.0",
+    "@alpha7bet/vid-rust": "^1.0.0",
+    "@alpha7bet/vid-go": "^1.0.0"
   }
 }
