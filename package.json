@@ -1,0 +1,22 @@
+{
+  "name": "@alpha7bet/vid-shell",
+  "version": "1.0.0",
+  "description": "Description for vid-shell",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alpha7bet/vid-shell.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@movexl/manage-github-repo": "^1.0.0",
+    "nodejs-env-checker": "^1.0.1"
+  }
+}
