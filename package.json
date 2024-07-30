@@ -1,6 +1,6 @@
 {
   "name": "@alpha7bet/vid-shell",
-  "version": "1.0.135",
+  "version": "1.0.136",
   "description": "Description for vid-shell",
   "main": "src/index.js",
   "scripts": {
